@@ -1,0 +1,222 @@
+// Fonts
+// @import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+@import 'animation';
+@import 'position';
+@import 'grid';
+@import 'border';
+@import 'form';
+@import 'image';
+@import 'margin';
+@import 'navigator';
+@import 'padding';
+@import 'position';
+@import 'text';
+@import 'width';
+
+// Bootstrap
+// @import '~bootstrap/scss/bootstrap';
+
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-family: 'FontFirst', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.app {
+    position: relative;
+    width: 100%;
+    .logo-big {
+        position: relative;
+        width: 250px;
+        font-size: 16pt;
+        color: #fff;
+        .col-lb-1 {
+            float: left;
+            width: calc(50% - 20px);
+            padding: 0 10px;
+            height: 40px;
+            line-height: 40px;
+            text-align: right;
+            font-family: 'FontFirstMedium', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .col-lb-2 {
+            float: left;
+            width: calc(50% - 20px);
+            padding: 0 10px;
+            height: 40px;
+            line-height: 40px;
+            background-color: rgba($color: #432b1f, $alpha: 0.8);
+            font-family: 'FontFirstMedium', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+    }
+    .header {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 70px;
+        background-color: rgba(0,0,0,0);
+        z-index: 100;
+        @include grid_2x(60px, 1fr);
+        .col-1 {
+            @include column_n(1);
+        }
+        .col-2 {
+            @include column_n(2);
+            .logo-big {
+                top: 15px;
+                float: right;
+            }
+        }
+        .logo-circle {
+            position: relative;
+            top: 5px;
+            left: 15px;
+            width: 70px;
+            height: 70px;
+        }
+        .line {
+            position: absolute;
+            top: 35px;
+            left: 85px;
+            width: calc(100% - 300px);
+            height: 2.5px;
+            background-color: #fff;
+        }
+    }
+    .footer {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 60px;
+        overflow: hidden;
+        background-color: rgba($color: #432b1f, $alpha: 0.8);
+        z-index: 100;
+        @include grid_2x(100px, 1fr);
+        .col-1 {
+            @include column_n(1);
+        }
+        .col-2 {
+            @include column_n(2);
+        }
+    }
+    .body {
+        position: relative;
+        width: 100%;
+        .body-image {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            background-size: 100%;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+        .body-content {
+            position: relative;
+            width: calc(100% - 50px);
+            // height: calc(100% - 100px);
+            padding: 80px 25px 80px 25px;
+        }
+    }
+    .menu-icon {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        font-size: 14pt;
+        background-color: rgba($color: #432b1f, $alpha: 0.2);
+        color: #fff;
+        cursor: pointer;
+        &:hover {
+            background-color: rgba($color: #000, $alpha: 0.2);
+        }
+    }
+    .menu {
+        li {
+            position: relative;            
+            list-style: none;
+            float: left;
+            width: calc(100% / 4);
+            height: 60px;
+            text-align: center;
+            a {
+                display: block;
+                color: #fff;
+                text-decoration: none;
+                font-size: 18pt;
+                font-weight: 500;
+                line-height: 60px;
+                font-family: 'FontFirstMedium', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                text-transform: lowercase;
+                &:hover {
+                    background-color: rgba($color: #000, $alpha: 0.2);
+                    // height: 56px;
+                    // border-bottom: 4px #fff solid;
+                    // font-size: 14pt;
+                    @include animate_1();
+                }
+                &.active {
+                    .line {
+                        display: block;
+                    }
+                }
+                .line {
+                    @include post_center(absolute);
+                    top: 50px;
+                    margin: 0 auto;
+                    width: 50px;
+                    height: 4px;
+                    border-radius: 70%;
+                    background-color: #fff;
+                    display: none;
+                }
+            }
+        }
+    }
+    .banner {
+        position: relative;
+        width: 100%;
+        height: 100vh;
+    }
+    .place-image {
+        position: relative;
+        width: 100%;
+        height: calc(100vh - 160px);
+        margin: 15px 0;
+    }
+    .bx-controls {
+        position: absolute;
+        bottom: 70px;
+        z-index: 100;
+        display: none;
+        .bx-pager {
+            .bx-pager-item {
+
+            }
+        }
+    }
+}
+
+
+.app-card {
+    position: relative;
+    width: calc(100% - 30px);
+    padding: 15px;
+    background-color: rgba($color: #432b1f, $alpha: 0.8);
+    color: #fff;
+    margin: 15px 0;
+    h1 {
+       line-height: 20px; 
+       font-family: 'FontFirstMedum', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    p {
+        line-height: 25px;
+        font-size: 14pt;
+        font-family: 'FontFirst', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+}

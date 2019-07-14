@@ -1,0 +1,70 @@
+//fonts
+@font-face {
+	font-family: "FontFirst";
+    src: url("../fonts/RedHatFont/TTF/RedHatText-Regular.ttf");
+}
+@font-face {
+	font-family: "FontFirstMedium";
+    src: url("../fonts/RedHatFont/TTF/RedHatText-Medium.ttf");
+}
+@font-face {
+	font-family: "FontFirstBold";
+    src: url("../fonts/RedHatFont/TTF/RedHatText-Bold.ttf");
+}
+@font-face {
+	font-family: "FontFirst2";
+    src: url("../fonts/RedHatFont/TTF/RedHatText-Bold.ttf");
+}
+@font-face {
+	font-family: "FontFirst3";
+    src: url("../fonts/RedHatFont/TTF/RedHatText-Bold.ttf");
+}
+
+// Body
+$body-bg: #f8fafc;
+
+// Typography
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+// Colors
+$blue: #3490dc;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66d9b;
+$red: #e3342f;
+$orange: #f6993f;
+$yellow: #ffed4a;
+$green: #38c172;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
+$magenta: #e84393;
+$min-color: #ffc400;
+$sek-color : #091d3d;
+$pos-color : #529ecc;
+$del-color : #9a0000;
+$err-color : #ff0000;
+$pri-color : #f3f3f3;
+$txt-84-color: rgb(68, 68, 68);
+$txt-54-color: rgb(136, 136, 136);;
+$txt-34-color: rgb(170, 174, 179);;
+$txt-min-color: rgba(0,0,0,0.84);
+$txt-sek-color: rgba(0,0,0,0.54);
+
+// width
+$width: 1200px;
+$mobile-width: calc(100% - 30px);
+$max-width : 800px;
+$std-width : 500px;
+$min-width : 300px;
+
+// border
+$border: 1px #f3f3f3 solid;
+$border1: 1px rgba(0,0,0,0.1) solid;
+$border2: 1px rgba(0,0,0,0.2) solid;
+$no-border: 0 #fff solid;
+
+$shadow: 0 5px 20px rgba(154,161,171,.25);
+$shadow-small: 0 3px 10px rgba(154,161,171,.25);
+$shadow-line: 0 2px 10px rgba(0,0,0,0.14);
