@@ -1,0 +1,25 @@
+IDR 380,000.00 IDR 190,000.00
+
+select color :
+red
+maroon
+black
+brown
+dark brown
+ 
+DESCRIPTION
+Type: Neck Strap
+
+Material: Full Leather
+
+Finish: Brown (Photo), Red, Black, Maroon, Dark Brown
+
+Neck Holder Width: 3cm
+
+String Width: 1,2cm
+
+Leather Thickness: 2mm
+
+Total Length: 119cm
+
+Suitable for: Analog, Mirrorless, DSLR

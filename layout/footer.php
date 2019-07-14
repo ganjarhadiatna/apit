@@ -11,9 +11,10 @@
 		<div class="footer">
 			<div class="col-1">
 				<a href="index.php?path=index">
-					<button class="menu-icon">
+					<!-- <button class="menu-icon">
 						<div class="fa fa-lg fa-bars"></div>
-					</button>
+					</button> -->
+					<div class="image image-full post-middle" style="background-image: url('assets/img/logo/logo2.png');"></div>
 				</a>
 			</div>
 			<div class="col-2">

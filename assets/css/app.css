@@ -59,8 +59,8 @@
   flex-wrap: wrap;
   justify-content: space-between; }
   .display-flex .df-card {
-    flex: 1 1 calc(33.33% - 1em);
-    margin: .55rem .25em; }
+    flex: 1 1 calc(15% - 1em);
+    margin: .55rem .55em; }
   @media (max-width: 800px) {
     .display-flex .df-card {
       flex: 1 1 calc(100% - 1em); } }
@@ -1763,8 +1763,8 @@
   flex-wrap: wrap;
   justify-content: space-between; }
   .display-flex .df-card {
-    flex: 1 1 calc(33.33% - 1em);
-    margin: .55rem .25em; }
+    flex: 1 1 calc(15% - 1em);
+    margin: .55rem .55em; }
   @media (max-width: 800px) {
     .display-flex .df-card {
       flex: 1 1 calc(100% - 1em); } }
@@ -1888,10 +1888,10 @@
   color: #f6993f; }
 .txt-site.txt-bold {
   font-weight: 500;
-  font-family: "FontFirstBold", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+  font-family: "FontFirstMedium", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 .txt-site.txt-extra-bold {
   font-weight: 500;
-  font-family: "FontFirstExtraBold", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+  font-family: "FontFirstBold", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 .txt-site.txt-thin {
   font-weight: 500;
   font-family: "FontFirst", "Helvetica Neue", Helvetica, Arial, sans-serif; }
@@ -2058,11 +2058,29 @@
   padding: 0;
   margin: 0;
   border: 0;
+  outline: none;
   font-family: 'FontFirst', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+
+.background-main-color {
+  background-color: #432b1f; }
 
 .app {
   position: relative;
   width: 100%; }
+  .app .logo-float {
+    position: fixed;
+    bottom: 150px;
+    left: 80px;
+    width: 100px;
+    height: 160px; }
+    .app .logo-float .lf-line {
+      position: fixed;
+      left: 30px;
+      bottom: 70px;
+      width: 50px;
+      height: 150px;
+      border-left: 4px #fff solid;
+      border-top: 4px #fff solid; }
   .app .logo-big {
     position: relative;
     width: 250px;
@@ -2129,8 +2147,8 @@
     z-index: 100;
     display: grid !important;
     display: -ms-grid !important;
-    grid-template-columns: 100px 1fr !important;
-    -ms-grid-columns: 100px 1fr !important; }
+    grid-template-columns: 60px 1fr !important;
+    -ms-grid-columns: 60px 1fr !important; }
     .app .footer .col-1 {
       grid-column: 1;
       -ms-grid-column: 1; }

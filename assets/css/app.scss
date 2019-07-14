@@ -23,12 +23,35 @@
     padding: 0;
     margin: 0;
     border: 0;
+    outline: none;
     font-family: 'FontFirst', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+$mainColor: #432b1f;
+
+.background-main-color {
+    background-color: $mainColor;
 }
 
 .app {
     position: relative;
     width: 100%;
+    .logo-float {
+        position: fixed;
+        bottom: 150px;
+        left: 80px;
+        width: 100px;
+        height: 160px;
+        .lf-line {
+            position: fixed;
+            left: 30px;
+            bottom: 70px;
+            width: 50px;
+            height: 150px;
+            border-left: 4px #fff solid;
+            border-top: 4px #fff solid;
+        }
+    }
     .logo-big {
         position: relative;
         width: 250px;
@@ -49,7 +72,7 @@
             padding: 0 10px;
             height: 40px;
             line-height: 40px;
-            background-color: rgba($color: #432b1f, $alpha: 0.8);
+            background-color: rgba($color: $mainColor, $alpha: 0.8);
             font-family: 'FontFirstMedium', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
     }
@@ -95,9 +118,9 @@
         width: 100%;
         height: 60px;
         overflow: hidden;
-        background-color: rgba($color: #432b1f, $alpha: 0.8);
+        background-color: rgba($color: $mainColor, $alpha: 0.8);
         z-index: 100;
-        @include grid_2x(100px, 1fr);
+        @include grid_2x(60px, 1fr);
         .col-1 {
             @include column_n(1);
         }
@@ -129,7 +152,7 @@
         height: 100%;
         text-align: center;
         font-size: 14pt;
-        background-color: rgba($color: #432b1f, $alpha: 0.2);
+        background-color: rgba($color: $mainColor, $alpha: 0.2);
         color: #fff;
         cursor: pointer;
         &:hover {
@@ -207,7 +230,7 @@
     position: relative;
     width: calc(100% - 30px);
     padding: 15px;
-    background-color: rgba($color: #432b1f, $alpha: 0.8);
+    background-color: rgba($color: $mainColor, $alpha: 0.8);
     color: #fff;
     margin: 15px 0;
     h1 {

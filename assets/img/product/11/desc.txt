@@ -1,0 +1,14 @@
+IDR 240,000.00
+ 
+DESCRIPTION
+Type: Guitar Strap
+
+Material: Non-Leather Material
+
+Strap Length: 85cm
+
+Strap Width: 6cm
+
+String Length: 70cm
+
+String Width: 2.5cm

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Sample Website</title>
+	<title>Website Kasbon</title>
 
 	<link rel="stylesheet" type="text/css" href="assets/css/app.css">
 	<link rel="stylesheet" type="text/css" href="assets/icons/fontawesome/css/all.min.css">
@@ -33,6 +33,10 @@
 						style="background-image: url('assets/img/covers/<?php echo $i; ?>.jpg');" ></div>
 				<?php } ?>
 			</div>
+		</div>
+		<div class="logo-float">
+			<div class="lf-line"></div>
+			<div class="image image-all" style="background-image: url('assets/img/logo/logo3.png');"></div>
 		</div>
 		<?php include 'layout/footer.php'; ?>
 	</div>
