@@ -14,7 +14,12 @@
 					<!-- <button class="menu-icon">
 						<div class="fa fa-lg fa-bars"></div>
 					</button> -->
-					<div class="image image-full post-middle" style="background-image: url('assets/img/logo/logo2.png');"></div>
+
+					<?php if (!isset($_GET['path']) || $_GET['path'] == 'index') { ?>
+						<div class="image image-full post-middle" style="background-image: url('assets/img/logo/logo2.png');"></div>
+					<?php } else { ?>
+						<div class="image image-full post-middle" style="background-image: url('assets/img/logo/logo.png');"></div>
+					<?php } ?>
 				</a>
 			</div>
 			<div class="col-2">

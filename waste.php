@@ -33,13 +33,14 @@
 						<h1 class="padding-top-15px padding-bottom-15px">WASTE/LIMBAH</h1>
 					</div>
 					<div class="app-card">
-						<p>Limbah adalah buangan atau material dari sisa-sisa bahan produksi yang kebanyakan dari pabrik diuntuk di buang karena dianggap tidak ada nilai-nilai didalamnya</p>
+						<p>
+							limbah merupakan material dari sisa-sisa bahan produksi yang tidak terpakai dan di buang. Limbah dapat menjadi masalah bagi lingkungan apabila dibuang begitu saja. Limbah dapat mencemari lingkungan karena bahan-bahannya yang tidak mudah terurai dan mengandung bahan kimia yang berbahaya, sehingga dapat berdampak negatif bagi kesehatan manusia. Sumber limbah didapatkan dari Industri besar maupun industri rumahan. 
+						</p>
 					</div>
 					<div class="app-card">
-						<p>Asal limbah adalah sisa material atau buangan yang bermula dari proses berakhirnya teknologi yang dilakukan dan dari proses alam yang dimana dengan adanya material tersebut tidak bermanfaat bagi lingkungan dan tidak mempunyai nilai.</p>
-					</div>
-					<div class="app-card">
-						<p>Pada dasar datangnya berbagai limbah yang sering kita temui dari kegitan manusia, entah itu kegiatan industri maupun rumah tangga yang berdampak negatif kepada lingkungan dan juga kesehatan manusia.</p>
+						<p>
+							Limbah yang masih dapat diolah dapat digunakan menjadi bahan untuk produk yang baru. Ferma leather merupakan industri rumahan yang menggunakan sebagian besar produknya dari pemanfaatan limbah kulit sapi. Memanfaatkan limbah yang masih dapat diolah merupakan usaha untuk mengurangi penumpukan limbah dan mengurangi pencemaran lingkungan, sehingga industri yang melakukan proses recycle perlu didukung keberadaannya baik oleh pemerintah dan masyarakat.
+						</p>
 					</div>
 				</div>
 				<div class="col-2">

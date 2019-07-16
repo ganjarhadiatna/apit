@@ -30,14 +30,23 @@
 				<?php for ($i = 1; $i <= 4; $i++) { ?>
 					<div 
 						class="body-image"
-						style="background-image: url('assets/img/covers/<?php echo $i; ?>.jpg');" ></div>
+						style="background-image: url('assets/img/covers/<?php echo $i; ?>.jpg');" >
+						<div class="desc-banner post-middle">
+							<h1>
+								We use Recycle for better life.
+							</h1>
+							<p>
+								Kami menggunakan daur ulang untuk kehidupan yang lebih baik.
+							</p>
+						</div>
+					</div>
 				<?php } ?>
 			</div>
 		</div>
-		<div class="logo-float">
+		<!-- <div class="logo-float">
 			<div class="lf-line"></div>
 			<div class="image image-all" style="background-image: url('assets/img/logo/logo3.png');"></div>
-		</div>
+		</div> -->
 		<?php include 'layout/footer.php'; ?>
 	</div>
 </body>

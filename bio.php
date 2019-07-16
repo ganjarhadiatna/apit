@@ -22,7 +22,7 @@
 		});
     </script>
 </head>
-<body class="image image-all" style="background-image: url('assets/img/bio/background.jpg');">
+<body class="image image-background" style="background-image: url('assets/img/bio/background.jpg');">
 	<div class="app">
 		<?php include 'layout/panel.php'; ?>
 		<div class="body">
@@ -33,13 +33,18 @@
 					</h1>
 				</div>
 				<div class="app-card">
-					<p>Ferma Leather yang berfilosofi recycle/daur ulang yang mencoba mengajak masyarakat sekitar untuk ikut membantu meminimalisir banyaknya sampah yang sudah menjadi masalah selama bertahun - tahun silam, dengan filosofi recycle yang Ferma Leather terapkan mencoba mencari barang - barang yang sudah tak terpakai atau sudah usang dapat digunakan kembaii dan dapat dimanfaatkan lagi menjadi barang atau produk, Ferma Leather yang berdiri pada tahun 2015 hingga sekarang 2019.</p>
+					<p>Ferferma Leather merupakan perusahaan yang bergerak di bidang Fashion, berdiri sejak tahun 2015. Ferferma leather menggunakan limbah kulit sapi sebagai bahan utama untuk produknya. Ferferma leather melakukan proses recycle/daur ulang sebagai konsep perusahaan.</p>
 				</div>
 				<div class="app-card">
-					<p>Kami memberikan kualitas terbaik untuk Anda.
-					<br>Jika Anda entah bagaimana kecewa dengan kualitas produk, kami memberikan garansi seumur hidup.
-					<br>Kami yakin dengan kualitas produk & keahlian kami.
-					Nikmati Ferma!</p>
+					<p>Ferma Leather menggunakan limbah kulit sapi dan barang-barang bekas berbahan kulit sebagai bahan utama dari produknya, diterapkan untuk melakukan proses recycle, sebagai usaha membantu mengurangi limbah, mengurangi pencemaran lingkungan, mengurangi dampak negatif dari limbah, membantu membersihkan lingkungan dan menjaga kesehatan masyarakat sekitar.</p>
+				</div>
+				<div class="app-card">
+					<p>
+						Kami memberikan kualitas terbaik untuk Anda.
+						<br>Jika Anda entah bagaimana kecewa dengan kualitas produk, kami memberikan garansi seumur hidup.
+						<br>Kami yakin dengan kualitas produk & keahlian kami.
+						<br>Nikmati Ferma!
+					</p>
 				</div>
 			</div>
 		</div>

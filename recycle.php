@@ -46,11 +46,8 @@
 					</p>
 				</div>
 				<div class="app-card">
-					<h3>1. Kumpulan dari sisa - sisa bahan kulit yang di perkiran bisa dijadikan pola.</h3>
-					<div class="margin-15px image image-middle" style="background-image: url('assets/img/recycle/1.jpg');"></div>
-				</div>
-				<div class="app-card">
-					<h3>2. Bahan yang diperkirakan agak lebar di sesuaikan oleh pola yang ukurannya sudah disesuaikan.</h3>
+					<h3>1. Limbah kulit sapi sebagai bahan utama dalam proses pembuatan pola.</h3>
+					<div class="margin-top-15px image image-middle" style="background-image: url('assets/img/recycle/1.jpg');"></div>
 					<div class="grid grid-2x gap-15px">
 						<div class="col-1">
 							<div class="margin-15px image image-full" style="background-image: url('assets/img/recycle/2.jpg');"></div>
@@ -63,7 +60,7 @@
 					</div>
 				</div>
 				<div class="app-card">
-					<h3>3. Setelah disesuaikan lalu dipotong dan diberi jejak untuk lubang jahitan dengan alat.</h3>
+					<h3>2. Pemberian jejak lubang jahitan dengan alat.</h3>
 					<div class="grid grid-2x gap-15px">
 						<div class="col-1">
 							<div class="margin-15px image image-full" style="background-image: url('assets/img/recycle/6.jpg');"></div>
@@ -77,7 +74,7 @@
 				</div>
 				<div class="app-card">
 					<h3>
-						4. Pengikisan bahan agar mudah di jahit sampai kira - kira agak sedikit tipis di bagian yang mau di jahit dan supaya mudah untuk di tilap untuk di bentuk berbagai lipatan.
+						3. Proses penipisan bahan kulit sapi untuk mempermudah proses penjahitan. 
 					</h3>
 					<div class="margin-top-15px image image-middle" style="background-image: url('assets/img/recycle/10.jpg');"></div>
 					<div class="grid grid-2x gap-15px">
@@ -91,7 +88,7 @@
 				</div>
 				<div class="app-card">
 					<h3>
-						5. Dijahit dengan simpul - simpul yang di pelajari oleh pembuat menggunakan benang yang berbahan dasar dari wax/lilin.
+						4. Proses penjahitan dengan benang yang dilapisi wax/lilin.
 					</h3>
 					<div class="margin-top-15px image image-middle" style="background-image: url('assets/img/recycle/13.jpg');"></div>
 					<div class="grid grid-2x gap-15px">
@@ -106,7 +103,7 @@
 				</div>
 				<div class="app-card">
 					<h3>
-						6. Setelah dijahit bagian tepi pada pola dioleskan oleh wax/lilin.
+						5. Proses pemberian wax/lilin pada tepian produk. 
 					</h3>
 					<div class="grid grid-2x gap-15px">
 						<div class="col-1">
@@ -120,7 +117,7 @@
 				</div>
 				<div class="app-card">
 					<h3>
-						7. Dan setelah di oleskan wax diamplas menggunakan alat supaya ditepi bagian pola tidak kasar dan lebih lembut.
+						6. Proses penghalusan.
 					</h3>
 					<div class="margin-15px image image-middle" style="background-image: url('assets/img/recycle/20.jpg');"></div>
 					<div class="grid grid-2x gap-15px">
@@ -134,31 +131,26 @@
 				</div>
 				<div class="app-card">
 					<h3>
-						8. Lalu membuat lubang untuk tempat baut untuk merekatkan pola yang sudah didesain dan juga untuk menempelkan gantungan supaya bisa menjadi gantungan kunci dan sebagainya.
+						7. Proses pembuatan kait pada produk.
 					</h3>
 					<div class="grid grid-2x gap-15px">
 						<div class="col-1">
 							<div class="margin-15px image image-full" style="background-image: url('assets/img/recycle/23.jpg');"></div>
 							<div class="margin-15px image image-full" style="background-image: url('assets/img/recycle/24.jpg');"></div>
 							<div class="margin-15px image image-full" style="background-image: url('assets/img/recycle/25.jpg');"></div>
+							<div class="margin-15px image image-full" style="background-image: url('assets/img/recycle/26.jpg');"></div>
 						</div>
 						<div class="col-2">
-							<div class="margin-15px image image-full" style="background-image: url('assets/img/recycle/26.jpg');"></div>
 							<div class="margin-15px image image-full" style="background-image: url('assets/img/recycle/27.jpg');"></div>
 							<div class="margin-15px image image-full" style="background-image: url('assets/img/recycle/28.jpg');"></div>
+							<div class="margin-15px image image-full" style="background-image: url('assets/img/recycle/29.jpg');"></div>
+							<div class="margin-15px image image-full" style="background-image: url('assets/img/recycle/30.jpg');"></div>
 						</div>
 					</div>
 				</div>
 				<div class="app-card">
 					<h3>
-						9. Finishing jahitan terakhir untuk menjahit pola di bagian yang sedikit agak longgar, bagian pinggir pola kembali di gosok - gosok dengan menggunakan alat dan kembali dioleskan dengan wax/lilin untuk lebih menghaluskan tekstur.
-					</h3>
-					<div class="margin-15px image image-middle" style="background-image: url('assets/img/recycle/29.jpg');"></div>
-					<div class="margin-15px image image-middle" style="background-image: url('assets/img/recycle/30.jpg');"></div>
-				</div>
-				<div class="app-card">
-					<h3>
-						10. Dan jadilah beberapa jenis produk dengan kegunaannya masing - masing dan pada dasarnya langkah - langkah untuk membuatnya tidak berbeda jauh tergantung dari dari produk apa yang ingin dibuat.
+						8. Produk-produk yang siap dipasarkan.
 					</h3>
 					<div class="grid grid-2x gap-15px">
 						<div class="col-1">
