@@ -8,6 +8,7 @@ $data = [
 		'cover' => '1.jpg',
 		'description' => 'Leather Card Holder, 2 Card Slots, Money Slot, Ferma Seahorse Logo Debossed, Painted Edge, Edge Stitching.',
 		'material' => 'Horween Bison Hide, Limited Edition, Comes with Ferma Zero Waste Packaging.',
+		'construction' => '',
 		'images' => [
 			['id' => '1', 'image' => '1.jpg'],
 			['id' => '2', 'image' => '2.jpg'],
@@ -57,6 +58,7 @@ $data = [
 		'cover' => '1.jpg',
 		'description' => 'Dimension 29 cm x 18.5cm x 5.5 cm, Product Spesification: Ferma Winged Seahorse Debossed Logo, Ferma Signature Stitch',
 		'material' => 'Finest Imported Crazy Horse Leather',
+		'construction' => '',
 		'images' => [
 			['id' => '1', 'image' => '1.jpg'],
 			['id' => '2', 'image' => '2.jpg'],
@@ -103,6 +105,7 @@ $data = [
 		'cover' => '1.jpg',
 		'description' => 'Ferma Technical Hat for your daily activity',
 		'material' => 'Ferma Technical Gear Embroidery, Cotton, Trucker Style, Mesh Venting, Adjustable snapback',
+		'construction' => '',
 		'images' => [
 			['id' => '1', 'image' => '1.jpg'],
 			['id' => '2', 'image' => '2.jpg']
@@ -131,6 +134,7 @@ $data = [
 		'price' => 'IDR 390,000.00',
 		'cover' => '1.jpg',
 		'description' => 'Pasra is Straight Standard Straps suitable for all watches with standard lug model. We combine the handmade process with finest leather for the pasra straps',
+		'construction' => '',
 		'images' => [
 			['id' => '1', 'image' => '1.jpg'],
 			['id' => '2', 'image' => '2.jpg']
@@ -143,7 +147,9 @@ $data = [
 		'price' => 'IDR 240,000.00',
 		'cover' => '1.jpg',
 		'description' => 'Strap Length: 85cm, Strap Width: 6cm, String Length: 70cm, String Width: 2.5cm',
-		'material' => 'Artificial Leather'
+		'material' => 'Artificial Leather',
+		'construction' => '',
+		'images' => []
 	],
 	[
 		'id' => '10',
@@ -152,7 +158,9 @@ $data = [
 		'price' => 'IDR 240,000.00',
 		'cover' => '1.jpg',
 		'description' => 'Strap Length: 85cm, Strap Width: 6cm, String Length: 70cm, String Width: 2.5cm',
-		'material' => 'Artificial Leather'
+		'material' => 'Artificial Leather',
+		'construction' => '',
+		'images' => []
 	],
 	[
 		'id' => '11',
@@ -161,7 +169,9 @@ $data = [
 		'price' => 'IDR 240,000.00',
 		'cover' => '1.jpg',
 		'description' => 'Strap Length: 85cm, Strap Width: 6cm, String Length: 70cm, String Width: 2.5cm',
-		'material' => 'Non-Leather Material'
+		'material' => 'Non-Leather Material',
+		'construction' => '',
+		'images' => []
 	],
 	[
 		'id' => '12',
@@ -170,7 +180,9 @@ $data = [
 		'price' => 'IDR 1,000,000.00',
 		'cover' => '1.jpg',
 		'description' => 'Strap Length: 85cm, Strap Width: 6cm, String Length: 70cm, String Width: 2.5cm',
-		'material' => 'Leather'
+		'material' => 'Leather',
+		'construction' => '',
+		'images' => []
 	],
 	[
 		'id' => '13',
@@ -179,7 +191,9 @@ $data = [
 		'price' => 'IDR 500,000.00',
 		'cover' => '1.jpg',
 		'description' => 'Strap Length: 85cm, Strap Width: 6cm, String Length: 70cm, String Width: 2.5cm',
-		'material' => 'Guitar Strap'
+		'material' => 'Guitar Strap',
+		'construction' => '',
+		'images' => []
 	],
 	[
 		'id' => '14',
@@ -189,6 +203,7 @@ $data = [
 		'cover' => '1.jpg',
 		'description' => 'Finish:  Black, Neck Holder Width: 2.7 cm, String Width: 1,2 cm, Leather Thickness: 1.8 mm, Total Length: 120 cm, Suitable for: Analog, Mirrorless, DSLR',
 		'material' => 'Webbing Strap with String Leather',
+		'construction' => '',
 		'images' => [
 			['id' => '1', 'image' => '1.jpg'],
 			['id' => '2', 'image' => '2.jpg']
