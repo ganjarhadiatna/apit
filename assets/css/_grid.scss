@@ -81,6 +81,9 @@
 	&.grid-2x-col7 {
 		@include grid_2x(250px, 1fr);
 	}
+	&.grid-2x-col6 {
+		@include grid_2x(350px, 1fr);
+	}
 	&.grid-2x-col45 {
 		@include grid_2x(45px, 1fr);
 	}
