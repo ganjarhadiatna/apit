@@ -33,10 +33,10 @@
 						style="background-image: url('assets/img/covers/<?php echo $i; ?>.jpg');" >
 						<div class="desc-banner post-middle">
 							<h1>
-								We use Recycle for better life.
+								we use Recycle for better life.
 							</h1>
 							<p>
-								Kami menggunakan daur ulang untuk kehidupan yang lebih baik.
+								kami menggunakan daur ulang untuk kehidupan yang lebih baik.
 							</p>
 						</div>
 					</div>

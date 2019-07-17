@@ -220,18 +220,20 @@ $mainColor: #432b1f;
         .desc-banner {
             z-index: 10;
             color: #fff;
-            font-family: 'FontFirstMedium', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             text-align: center;
             h1 {
-                font-size: 36pt;
+                font-size: 42pt;
                 line-height: 25px;
-                margin-bottom: 30px;
+                margin-bottom: 50px;
                 text-shadow: 0px 0px 10px rgba(0,0,0,0.34);
+                font-family: 'FontFirstMedium', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             }
             p {
+                font-weight: 500;
                 font-size: 14pt;
                 line-height: 20px;
                 text-shadow: 0px 0px 10px rgba(0,0,0,0.34);
+                font-family: 'FontFirstRegular', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             }
         }
         .place-banner {

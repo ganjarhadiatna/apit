@@ -2242,17 +2242,19 @@
     .app .banner .desc-banner {
       z-index: 10;
       color: #fff;
-      font-family: 'FontFirstMedium', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       text-align: center; }
       .app .banner .desc-banner h1 {
-        font-size: 36pt;
+        font-size: 42pt;
         line-height: 25px;
-        margin-bottom: 30px;
-        text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.34); }
+        margin-bottom: 50px;
+        text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.34);
+        font-family: 'FontFirstMedium', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
       .app .banner .desc-banner p {
+        font-weight: 500;
         font-size: 14pt;
         line-height: 20px;
-        text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.34); }
+        text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.34);
+        font-family: 'FontFirstRegular', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
     .app .banner .place-banner {
       position: fixed;
       top: 0;

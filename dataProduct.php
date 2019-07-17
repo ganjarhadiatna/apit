@@ -118,6 +118,8 @@ $data = [
 		'price' => 'IDR 490,000.00',
 		'cover' => '1.jpeg',
 		'description' => 'Bespoke watch straps for your watch, Made to Order Spesification',
+		'material' => '',
+		'construction' => '',
 		'images' => [
 			['id' => '1', 'image' => '1.jpeg'],
 			['id' => '2', 'image' => '2.jpg'],
@@ -134,6 +136,7 @@ $data = [
 		'price' => 'IDR 390,000.00',
 		'cover' => '1.jpg',
 		'description' => 'Pasra is Straight Standard Straps suitable for all watches with standard lug model. We combine the handmade process with finest leather for the pasra straps',
+		'material' => '',
 		'construction' => '',
 		'images' => [
 			['id' => '1', 'image' => '1.jpg'],
